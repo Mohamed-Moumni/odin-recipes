@@ -1,0 +1,17 @@
+body {
+    background-color: #ffe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+}
+ul{
+    list-style: circle;
+    margin-left: 100px;
+    font-family: Bradley Hand, cursive;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
